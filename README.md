@@ -12,7 +12,7 @@ Then you can access the dominant color from the product model and stylize the pr
 {$product->dominant_color} //Get Dominant color in smarty
 ```
 
-## Example: Changing the background color of button
+## Example: Changing the background color of 'add to cart' button
 
 ![Image of ex1](https://raw.githubusercontent.com/nicolascoutureau/Prestashop-Color-Finder/master/cf-ex1.png)
 
