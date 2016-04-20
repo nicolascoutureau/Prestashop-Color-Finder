@@ -12,6 +12,8 @@ Then you can access the dominant color from the product model and stylize the pr
 {$product->dominant_color} //Get Dominant color in smarty
 ```
 
+## Example: Changing the background color of button
+
 ![Image of ex1](https://raw.githubusercontent.com/nicolascoutureau/Prestashop-Color-Finder/master/cf-ex1.png)
 
 ![Image of ex2](https://raw.githubusercontent.com/nicolascoutureau/Prestashop-Color-Finder/master/cf-ex2.png)
