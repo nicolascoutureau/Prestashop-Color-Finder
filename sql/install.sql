@@ -1,0 +1,2 @@
+ALTER TABLE `PREFIX_product` ADD `dominant_color` VARCHAR(255) DEFAULT NULL;
+ALTER TABLE `PREFIX_product` ADD `dominant_colors` LONGTEXT DEFAULT NULL;
